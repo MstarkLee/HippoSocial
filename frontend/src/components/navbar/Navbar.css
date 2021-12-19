@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  background-color: #6621ee;
+  justify-content: space-between;
+  align-items: center;
+  color: aqua;
+  width: 100%;
+}
+
+.logo {
+  padding: 0 20px;
+}
+
+.user {
+  padding: 0 20px;
+}
